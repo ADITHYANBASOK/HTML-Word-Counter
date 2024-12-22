@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #343a40;
+    margin-bottom: 30px;
+  }
+  
+  textarea {
+    font-size: 1.1rem;
+  }
+  
+  h5 {
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+  #wordCount, #charCount {
+    color: #1e90ff;
+  }
+  
